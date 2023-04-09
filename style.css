@@ -1,3 +1,19 @@
 * {
     background-color: navajowhite;
 }
+
+body {
+    display: grid;
+}
+
+aside {
+    background-color: cornflowerblue;
+}
+
+header {
+    background-color: azure;
+}
+
+main {
+    background-color: grey;
+}
