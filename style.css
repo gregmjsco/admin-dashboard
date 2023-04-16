@@ -2,18 +2,33 @@
     background-color: navajowhite;
 }
 
+body {
+    height: 100%;
+    width: 100%;
+}
+
 .grid-container {
     display: grid;
+    height: 100%;
+    width: 100%;
+    grid-template-rows: 1fr 3fr;
+    grid-template-columns: 1fr 4fr;
 }
 
 aside {
     background-color: cornflowerblue;
+    grid-row: 1 / 3;
+    grid-column: 1 / 2;
 }
 
 header {
     background-color: azure;
+    grid-row: 1 / 2;
+    grid-column: 2 / 3;
 }
 
 main {
     background-color: grey;
+    grid-row: 2 / 3;
+    grid-column: 2 / 3;
 }
