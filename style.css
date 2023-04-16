@@ -33,6 +33,11 @@ aside > li {
     background-color: #00a7ff;
 }
 
+.side-icon {
+    width: 20px;
+    margin-right: 20px;
+}
+
 
 
 header {
