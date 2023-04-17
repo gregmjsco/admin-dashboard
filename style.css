@@ -1,5 +1,5 @@
 * {
-    background-color: navajowhite;
+    
 }
 
 body {
@@ -25,13 +25,13 @@ aside {
     grid-template-rows: ;
 }
 
-aside > ul {
-    background-color: #00a7ff;
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 
-aside > li {
-    background-color: #00a7ff;
-}
+
 
 .side-icon {
     width: 20px;
