@@ -50,6 +50,15 @@ header {
     grid-template-columns: 2fr 1fr;
 }
 
+.header-icon-small {
+    width: 20px;
+
+}
+
+.header-icon-large {
+    width: 40px;    
+}
+
 main {
     background-color: grey;
     grid-row: 2 / 3;
