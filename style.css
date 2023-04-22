@@ -49,7 +49,11 @@ aside li {
     margin: 20px;
 }
 
-
+.side-header-icon {
+    width: 50px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
 
 .side-icon {
     width: 30px;
