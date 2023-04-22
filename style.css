@@ -1,5 +1,5 @@
 * {
-    
+    border: 1px solid red ;
 }
 
 body {
@@ -22,7 +22,14 @@ aside {
 
     display: grid;
     grid-template-columns: 1fr;
-    grid-template-rows: ;
+    grid-template-rows: 3fr;
+
+    row-gap: 20px;
+}
+
+aside h1 {
+    color: white;
+    font-size: 2rem;
 }
 
 ul {
