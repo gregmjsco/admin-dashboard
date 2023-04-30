@@ -80,6 +80,16 @@ header {
 
 }
 
+.searchbar-icon-bar > img {
+    margin-left: 2em;
+    margin-right: 2em;
+}
+
+input {
+    width: 700px;
+    
+}
+
 .header-user-info {
 
 }
