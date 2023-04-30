@@ -72,6 +72,20 @@ header {
     grid-template-columns: 2fr 1fr;
 }
 
+.header-searchbar {
+    display: grid;
+    grid-column: 1 / 3;
+
+}
+
+.header-user-info {
+
+}
+
+.header-buttons {
+
+}
+
 .header-icon-small {
     width: 20px;
 
