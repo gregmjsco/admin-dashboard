@@ -90,6 +90,14 @@ input {
     
 }
 
+.searchbar-icons {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 2rem;
+
+    align-items: center;
+}
+
 .header-user-info {
 
 }
